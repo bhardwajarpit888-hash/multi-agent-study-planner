@@ -36,6 +36,7 @@ ENV/
 
 # Local database / generated runtime state
 data/*.json
+data/*.db
 temp_upload.pdf
 
 # IDEs & Editors

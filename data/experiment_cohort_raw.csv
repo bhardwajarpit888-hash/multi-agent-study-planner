@@ -1,0 +1,11 @@
+participant_id,anonymized_name,cohort_group,study_track,total_assigned_topics,completed_topics_count,missed_topics_count,recovered_topics_count,final_completion_rate,recovery_rate,dropout_occurred,dropout_day,mean_stress_score,pre_study_confidence,post_study_exam_score
+P01,Aarav S.,A_ADAPTIVE,Applied Machine Learning,12,12,2,2,100.0,100.0,FALSE,NA,2.10,3.2,88.5
+P02,Priya M.,A_ADAPTIVE,Applied Machine Learning,12,12,1,1,100.0,100.0,FALSE,NA,1.80,3.5,92.0
+P03,Rohan D.,A_ADAPTIVE,Applied Machine Learning,12,10,3,2,83.3,66.7,FALSE,NA,2.60,2.8,79.5
+P04,Sneha K.,A_ADAPTIVE,Applied Machine Learning,12,11,2,2,91.7,100.0,FALSE,NA,2.00,3.0,84.0
+P05,Vikram T.,A_ADAPTIVE,Applied Machine Learning,12,10,3,2,83.3,66.7,FALSE,NA,2.40,2.5,78.0
+P06,Ananya R.,B_STATIC_CHECKLIST,Applied Machine Learning,12,10,2,0,83.3,0.0,FALSE,NA,3.20,3.1,76.5
+P07,Karthik N.,B_STATIC_CHECKLIST,Applied Machine Learning,12,9,3,0,75.0,0.0,FALSE,NA,3.50,3.4,72.0
+P08,Neha P.,B_STATIC_CHECKLIST,Applied Machine Learning,12,8,4,1,66.7,25.0,FALSE,NA,3.80,2.9,68.5
+P09,Aditya V.,B_STATIC_CHECKLIST,Applied Machine Learning,12,6,6,0,50.0,0.0,TRUE,17,4.40,2.6,54.0
+P10,Tanvi B.,B_STATIC_CHECKLIST,Applied Machine Learning,12,5,7,0,41.7,0.0,TRUE,14,4.60,2.4,49.0
